@@ -7,7 +7,7 @@ Stdlib only. No trailing newline; self-verifies the written file.
 import os
 import sys
 
-LINE = "Out until Monday — my inbox is in the care of my cat, who has already replied 'no' to everyone and left a hairball."
+LINE = "I'm out of office — my inbox is now handled by a magic 8-ball, and it says your email's outlook is 'not so good.'"
 
 
 def main() -> int:
